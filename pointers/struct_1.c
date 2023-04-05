@@ -31,7 +31,7 @@ int main() {
 
     
     
-    char a[] = "abd";
+    char a[] = "abcde";
     
     printf("charData: %s", a);
     
